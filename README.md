@@ -1,6 +1,6 @@
 # nvml_dev
 
-CUDA 11.5.0 NVML 11.5.50 Headers
+CUDA 11.5.1 NVML 11.5.50 Headers
 By using the software you agree to comply with the terms of the license agreement
 that accompanies the software.
 If you do not agree to the terms of the license agreement, do not use the software.
